@@ -1,0 +1,29 @@
+sourcecodde management git hub to push the code aws azurre multiple cloud platforms public repositiry
+developer develop the bugs rectifiers you need to share the code is github 
+local repositry 
+to manage the code by some source git and the github
+working directory is laptop
+staging areangit add
+comment
+distribution mediator helps to save the packet it will be safe in local repository
+
+
+centeralisation control system the packet will be crashed
+repository is nothing but a folder
+eiher it is private or public
+.git extensions to create emty git
+commit is nothing but a tag
+gitpush
+and send it to cloud
+
+sorce code management between public and the dvelper
+github and bamboo
+version control system 
+username 
+email
+git config gloabal list
+git init 
+login.html
+git add "login.html"
+
+git commit --M "login"
