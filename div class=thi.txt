@@ -1,0 +1,23 @@
+<div class="thi">
+	   	<div class="t1">
+	   		<h1 class="le">01</h1>
+	   		AWESOME
+	   	</div>
+	   	<div class="t2">
+	   		<h1 class="lp">02</h1>
+	   		&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;CREATIVE
+	   	</div>
+	   </div>
+	   <br>
+		<div class="m">
+			<div class="n">
+			<h1 class="inte">INTERIORS</h1>
+			Paragraphs are the building blocks of papers. Many students define that the<br>
+			 paragraphs in terms of length: a paragraph is a group of at least five sentences,<br>
+			 a paragraph is half a page long, etc.  reality, though, the unity and coherence of <br>
+			 ideas among sentences is what constitutes a paragraph.</div>
+			<div class="l"><h1 class="cre">CREATIVE</h1> Paragraphs are the building blocks of papers. Many students define that the <br>
+			paragraphs in terms of length: a paragraph is a group of at least five sentences, a <br>
+		     paragraph is half a page long, etc. In reality, though, the unity and coherence of ideas<br>
+		     among sentences is what constitutes a paragraph.</div>
+		</div>
